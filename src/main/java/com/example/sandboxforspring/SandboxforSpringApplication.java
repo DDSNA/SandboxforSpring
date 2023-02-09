@@ -10,4 +10,9 @@ public class SandboxforSpringApplication {
         SpringApplication.run(SandboxforSpringApplication.class, args);
     }
 
-}
+    MultithreadingExperiment myExperiment = new MultithreadingExperiment();
+
+
+    }
+
+
